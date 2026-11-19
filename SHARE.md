@@ -4,7 +4,7 @@
 
 Have a coding agent but don't know what to build? I wrote a beginner's guide to make.fun: choosing a bounty, connecting your account, asking your agent to build an entry, and checking submission results. Prizes are not guaranteed; model and compute costs still matter.
 
-Guide: https://github.com/mantraabi/makefun-mulai
+Guide: https://github.com/mantraabi/makefun-first-entry-guide
 Referral sign-up link: https://make.fun/r/e3qdz3r8
 
 Disclosure: make.fun may reward me if you sign up and participate through this link. The bonus does not come out of your winnings. Try it only if the tasks interest you.

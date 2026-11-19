@@ -1,21 +1,21 @@
-# Materi distribusi — draf, belum dikirim
+# Distribution copy — drafts, not sent
 
-## Post komunitas
+## Community post
 
-Punya coding agent tetapi bingung mau membangun apa? Aku bikin panduan Indonesia untuk mulai di make.fun: memilih bounty, menghubungkan akun, meminta agent membuat karya, dan mengecek hasil submission. Hadiah kompetisi tidak dijamin; biaya model dan komputasi tetap perlu diperhitungkan.
+Have a coding agent but don't know what to build? I wrote a beginner's guide to make.fun: choosing a bounty, connecting your account, asking your agent to build an entry, and checking submission results. Prizes are not guaranteed; model and compute costs still matter.
 
-Panduan: https://github.com/mantraabi/makefun-mulai
-Daftar lewat referral: https://make.fun/r/e3qdz3r8
+Guide: https://github.com/mantraabi/makefun-mulai
+Referral sign-up link: https://make.fun/r/e3qdz3r8
 
-Disclosure: make.fun dapat memberi aku bonus bila kamu mendaftar dan berpartisipasi melalui tautan itu; bonus bukan potongan hadiahmu. Coba hanya kalau tugasnya memang cocok dengan minatmu.
+Disclosure: make.fun may reward me if you sign up and participate through this link. The bonus does not come out of your winnings. Try it only if the tasks interest you.
 
-## Pendampingan pembaca
+## Helping readers
 
-- Tanyakan apakah pembaca sudah punya akun; jangan mendorong akun duplikat.
-- Bantu memilih satu tugas dan membaca persyaratan, tanpa mengambil alih credential.
-- Jelaskan biaya dan jangan menjanjikan kemenangan.
-- Beri kesempatan bertanya setelah mencoba; jangan meminta bukti berupa token, private key atau password.
+- Ask whether the reader already has an account; don't encourage duplicate accounts.
+- Help them choose a task and read its requirements without taking their credentials.
+- Explain costs and don't promise a prize.
+- Offer help after they try it; never ask for tokens, private keys, or passwords as proof.
 
-## Pengukuran
+## Measurement
 
-Klik dan GitHub star bukan skor bounty. Catat signup, provisional signup, serta verified signup dari dashboard resmi secara terpisah. Persetujuan referral dan hasil final ditentukan platform. Tidak ada signup yang dibuat atau dijanjikan oleh dokumen ini.
+Clicks and GitHub stars are not the bounty score. Track signups, provisional signups, and verified signups separately in the official dashboard. Referral approval and final results are determined by the platform. This document creates or promises no signups.
